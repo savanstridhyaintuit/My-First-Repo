@@ -6,8 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.*
-import androidx.core.content.ContextCompat
-import com.puskal.multiselectspinner.MultipleSelectSpinnerPojo
+
 
 /**created by Puskal khadka
  * 12 may, 2021
